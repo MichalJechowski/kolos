@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\student\\source\\repos\\Na kolosa\\",
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\kolos\\Na kolosa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0169769B-C800-4D5F-8C08-4A02952B8585}|insertionsort\\insertionsort.vcxproj|C:\\Users\\student\\source\\repos\\Na kolosa\\insertionsort\\insertionsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0169769B-C800-4D5F-8C08-4A02952B8585}|insertionsort\\insertionsort.vcxproj|C:\\Users\\student\\Desktop\\kolos\\Na kolosa\\insertionsort\\insertionsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0169769B-C800-4D5F-8C08-4A02952B8585}|insertionsort\\insertionsort.vcxproj|solutionrelative:insertionsort\\insertionsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60CA6D51-70A4-4EB8-A579-BC869FCA8F03}|quciksort-nic nie wiem\\quciksort-nic nie wiem.vcxproj|C:\\Users\\student\\source\\repos\\Na kolosa\\quciksort-nic nie wiem\\quciksort-nic nie wiem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{60CA6D51-70A4-4EB8-A579-BC869FCA8F03}|quciksort-nic nie wiem\\quciksort-nic nie wiem.vcxproj|solutionrelative:quciksort-nic nie wiem\\quciksort-nic nie wiem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7CC2079B-4CB4-4F09-B3CA-FD471DB1E299}|bombel\\bombel.vcxproj|C:\\Users\\student\\Desktop\\kolos\\Na kolosa\\bombel\\bombel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CC2079B-4CB4-4F09-B3CA-FD471DB1E299}|bombel\\bombel.vcxproj|solutionrelative:bombel\\bombel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "insertionsort.cpp",
-              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Na kolosa\\insertionsort\\insertionsort.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\kolos\\Na kolosa\\insertionsort\\insertionsort.cpp",
               "RelativeDocumentMoniker": "insertionsort\\insertionsort.cpp",
-              "ToolTip": "C:\\Users\\student\\source\\repos\\Na kolosa\\insertionsort\\insertionsort.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\kolos\\Na kolosa\\insertionsort\\insertionsort.cpp",
               "RelativeToolTip": "insertionsort\\insertionsort.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-14T14:20:46.368Z",
+              "WhenOpened": "2024-12-14T14:46:59.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "quciksort-nic nie wiem.cpp",
-              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Na kolosa\\quciksort-nic nie wiem\\quciksort-nic nie wiem.cpp",
-              "RelativeDocumentMoniker": "quciksort-nic nie wiem\\quciksort-nic nie wiem.cpp",
-              "ToolTip": "C:\\Users\\student\\source\\repos\\Na kolosa\\quciksort-nic nie wiem\\quciksort-nic nie wiem.cpp",
-              "RelativeToolTip": "quciksort-nic nie wiem\\quciksort-nic nie wiem.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Title": "bombel.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\kolos\\Na kolosa\\bombel\\bombel.cpp",
+              "RelativeDocumentMoniker": "bombel\\bombel.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\kolos\\Na kolosa\\bombel\\bombel.cpp*",
+              "RelativeToolTip": "bombel\\bombel.cpp*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-14T14:18:43.608Z",
+              "WhenOpened": "2024-12-14T14:45:19.27Z",
               "EditorCaption": ""
             }
           ]
