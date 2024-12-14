@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\source\\repos\\Na kolosa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0169769B-C800-4D5F-8C08-4A02952B8585}|insertionsort\\insertionsort.vcxproj|C:\\Users\\student\\source\\repos\\Na kolosa\\insertionsort\\insertionsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0169769B-C800-4D5F-8C08-4A02952B8585}|insertionsort\\insertionsort.vcxproj|solutionrelative:insertionsort\\insertionsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CA6D51-70A4-4EB8-A579-BC869FCA8F03}|quciksort-nic nie wiem\\quciksort-nic nie wiem.vcxproj|C:\\Users\\student\\source\\repos\\Na kolosa\\quciksort-nic nie wiem\\quciksort-nic nie wiem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60CA6D51-70A4-4EB8-A579-BC869FCA8F03}|quciksort-nic nie wiem\\quciksort-nic nie wiem.vcxproj|solutionrelative:quciksort-nic nie wiem\\quciksort-nic nie wiem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "insertionsort.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Na kolosa\\insertionsort\\insertionsort.cpp",
+              "RelativeDocumentMoniker": "insertionsort\\insertionsort.cpp",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Na kolosa\\insertionsort\\insertionsort.cpp",
+              "RelativeToolTip": "insertionsort\\insertionsort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T14:20:46.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quciksort-nic nie wiem.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Na kolosa\\quciksort-nic nie wiem\\quciksort-nic nie wiem.cpp",
+              "RelativeDocumentMoniker": "quciksort-nic nie wiem\\quciksort-nic nie wiem.cpp",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Na kolosa\\quciksort-nic nie wiem\\quciksort-nic nie wiem.cpp",
+              "RelativeToolTip": "quciksort-nic nie wiem\\quciksort-nic nie wiem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T14:18:43.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
